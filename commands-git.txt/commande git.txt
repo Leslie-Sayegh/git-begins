@@ -1,0 +1,17 @@
+/c/Users/david/Desktop/Git
+/c/Users/david/Desktop/Git/git-begins
+
+cd C:\Users\david\Desktop\Git
+/c/Users/david/Desktop/Git/git-begins
+
+git clone https://github.com/Leslie-Sayegh/git-begins.git
+
+
+cd git-begins/
+
+git add .
+
+git commit -m "first"
+
+git push
+
